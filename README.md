@@ -135,8 +135,14 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 ## Output:
-![output](bkcover/static/images/out.png)
+
+![out](https://user-images.githubusercontent.com/118343698/212679910-ac5efb46-371d-4f39-a471-fdfd2576eabc.png)
+
+
 ### Validation:
-![valid](bkcover/static/images/o.png)
+
+![o](https://user-images.githubusercontent.com/118343698/212679951-ee70e64d-202d-4dac-9541-ebb50a5b7093.png)
+
+
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
