@@ -1,4 +1,4 @@
-# Book Coverpage Design
+# Book CoverPage Design
 
 ## AIM:
 
